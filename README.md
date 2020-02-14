@@ -7,11 +7,11 @@ The file fastbm.log contains final t-count and other statistics.
 
 This folder contains 3 kinds of files:
 
-1.the one with extension .log (except fastbm.log) is the proof outputed by "feynver".
+  1.the one with extension .log (except fastbm.log) is the proof output by "feynver".
 
-2.the one with _i is the input circuit in .qc format.
+  2.the one with _i is the input circuit in .qc format.
 
-3.the one with _o is the output circuit of stomp.
+  3.the one with _o is the output circuit of stomp.
 
 Also, the pair of _i and _o file is the input of feynver.
 

@@ -15,7 +15,9 @@ This folder contains 3 kinds of files:
 
 Also, the pair of _i and _o file is the input of feynver.
 
-All the circuits except gf256.tfc are from: https://github.com/njross/optimizer/tree/master/QFT_and_Adders
-gf256.tfc is downloaded from: http://webhome.cs.uvic.ca/~dmaslov/
+All the circuits except gf256.tfc and gf512.tfc are from: https://github.com/njross/optimizer/tree/master/QFT_and_Adders
+gf256.tfc and gf512.tfc are downloaded from: http://webhome.cs.uvic.ca/~dmaslov/
+
+The optimized gf512 is of size 204.5MB, too large to upload. If need, please contact: bian@dal.ca 
 
 Thank Matt for timely adding new functionality in Feynman.

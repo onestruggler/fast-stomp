@@ -11,7 +11,7 @@ This folder contains 3 kinds of files:
 
   2.the one with _i is the input circuit in .qc format.
 
-  3.the one with _o is the output circuit of stomp.
+  3.the one with _o is the output circuit of fast-stomp.
 
 Also, the pair of _i and _o file is the input of feynver.
 

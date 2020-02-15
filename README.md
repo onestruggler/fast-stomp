@@ -1,7 +1,7 @@
 # fast-stomp
 input and output benchmark circuits of fast-stomp
 
-Feynman (https://github.com/meamy/feynman) has verified part of the circuits. 
+Feynman (https://github.com/meamy/feynman) has verified all the circuits except {gf64, gf128, gf131, gf163, gf256,gf512} which are too large to verify. 
 
 The file fastbm.log contains final t-count and other statistics.
 
